@@ -26,8 +26,9 @@ Untuk pemrograman pada bahasa C++, Java dan Python memiliki function dan command
 
 Alur program dalam 3 bahasa ini, user akan diminta memasukkan angka untuk memilih program apa yg ingin dilakukan. Setelah itu setiap program akan menampilkan alur programnya sebagai berikut :
 
-1. Menambahkan Data : User akan diminta memasukkan data berupa ID, Nama, Kategori, Brand dan Harga.
-2. Menampilkan Data : Program akan menampilkan semua data yang ada di List tersebut.
+1. Menambahkan Data untuk Player : User akan diminta memasukkan data berupa ID, Nama Player, Nama Lengkap, Alamat
+2. Menambahkan Data untuk Kartu : User akan diminta memasukkan data berupa ID, Nama Kartu, Bahan dan Jenis Permainan
+3. Menampilkan Data : Program akan menampilkan semua data yang ada di List tersebut.
 
 # Dokumentasi Foto
 1. C++
@@ -49,4 +50,5 @@ Alur program dalam 3 bahasa ini, user akan diminta memasukkan angka untuk memili
 3. Python
 
 <img width="1424" height="856" alt="Screenshot 2025-10-01 144751" src="https://github.com/user-attachments/assets/5d4ad238-cb8f-420a-a0f3-abb5da93f9dd" />
+
 
